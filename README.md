@@ -123,11 +123,11 @@ This relational structure allowed for robust sales, category, and performance an
 - **Average order value:** $38.31 — indicating moderate upsell behavior.  
 
 ### 2. Size Preference  
-- Large (L) pizzas generated the highest sales revenue ($375.32K) and demand (18,956 units).  
+- Large (L) pizzas generated the highest sales revenue ($375.32K) and demand (18,956 units). This may be due to customers' preference for the large size.  
 - XXL and XL sizes underperformed, likely due to pricing or portion mismatch with customer preferences.  
 
 ### 3. Category Performance  
-- **Classic pizzas** led in both revenue ($220.05K) and quantity sold (14,888 units). This could be because customer lean towards the familiar or because it taste better.
+- **Classic pizzas** led in both revenue ($220.05K) and quantity sold (14,888 units). This could be because customers lean towards the familiar or because it taste better.
  
 - Supreme, Chicken, and Veggie also performed well with evenly distributed sales.  
 
@@ -137,10 +137,9 @@ This relational structure allowed for robust sales, category, and performance an
   →This poor performance may be due to flavour mismatch, or weak marketing. These pizza products may require re-branding, improved marketing, or removal.
 
 ### 5. Time-Based Trends  
-- **Fridays (8,242 units)** and **Saturdays (7,493 units)** recorded the highest sales suggesting ideal days for targeted promos and marketing.  
+- **Fridays (8,242 units)** and **Saturdays (7,493 units)** recorded the highest sales, this could be due to weekend parties and people's free time to relax and enjoy themselves. This also suggests ideal days for targeted promos and marketing.  
 - **Sunday** recorded the lowest sales (6,035 units).  
-- **Revenue spikes** observed in **March, May, July, and November**, (each exceeding $70K),
- indicating potential seasonality, promotion-driven spikes, or campaign effect. 
+- **Revenue spikes** observed in **March, May, July, and November**, (each exceeding $70K), indicating potential seasonality, promotion-driven spikes, or campaign effect. 
 
  ---
 
@@ -151,12 +150,11 @@ This relational structure allowed for robust sales, category, and performance an
 - Bundle best-sellers with under-performers in promotion to move slow stock.  
 - Promote high-performing pizzas during **Fridays and Saturdays** to maximize sales.  
 - Review pricing and marketing strategies for **XL and XXL** sizes.  
-- Create **combo offers** using top sellers to increase **AOV (Average Order Value)**, order quantity and move low performing inventory.  
--Offer bundle discounts to increase AOV (Average Order Value).
+- Offer bundle discounts to increase AOV (Average Order Value).
 
 
 🔹 Product Strategy
-- Gather and analyze customer feedback on low-performing pizzas to determine next steps: improve, rebrand, or remove.
+- Gather and analyze customer feedback on low-performing pizzas to identify the problem and determine the next course of action
 - Address Under-performers, consider improving, re-branding, discounting, or removing them to reduce menu complexity and inventory waste.
 
 
@@ -185,4 +183,4 @@ This relational structure allowed for robust sales, category, and performance an
 ## 📌 License
 
 This project is for **educational and portfolio purposes only**.  
-No commercial use is intended unless otherwise stated.
+
